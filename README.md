@@ -6,6 +6,9 @@ coordinates on the map.
 
 <img width="572" alt="test" src="https://user-images.githubusercontent.com/35696935/85925928-a787e780-b869-11ea-970a-228e05cf7292.png">
 
+### Cost of Path
+<img width="774" alt="Screen Shot 2020-06-27 at 11 35 57 AM" src="https://user-images.githubusercontent.com/35696935/85926026-66440780-b86a-11ea-9948-665fa088aca0.png">
+
 ## Getting Started
 ### Prerequisites
 
