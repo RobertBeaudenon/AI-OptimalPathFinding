@@ -4,7 +4,10 @@ In this program I generate a crime risk map based on the crime rates and
 implement an A* heuristic search algorithm to find an optimal path between two
 coordinates on the map.
 
-<img width="572" alt="test" src="https://user-images.githubusercontent.com/35696935/85925928-a787e780-b869-11ea-970a-228e05cf7292.png">
+<img width="574" alt="Screen Shot 2020-06-27 at 11 38 42 AM" src="https://user-images.githubusercontent.com/35696935/85926074-c89d0800-b86a-11ea-9278-f9baaa5f5ebc.png">
+
+Grid size: 0.002
+Threshold: 50%
 
 ### Cost of Path
 <img width="774" alt="Screen Shot 2020-06-27 at 11 35 57 AM" src="https://user-images.githubusercontent.com/35696935/85926026-66440780-b86a-11ea-9948-665fa088aca0.png">
