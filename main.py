@@ -1,7 +1,6 @@
 # -------------------------------------------------------
-# Assignment 1
-# Written by Robert Beaudenon 40022364
-# For COMP 472 Section JX – Summer 2020
+# Written by Robert Beaudenon
+# For COMP 472 – Summer 2020
 # --------------------------------------------------------
 
 import math
