@@ -4,6 +4,8 @@ In this program I generate a crime risk map based on the crime rates and
 implement an A* heuristic search algorithm to find an optimal path between two
 coordinates on the map.
 
+<img width="572" alt="test" src="https://user-images.githubusercontent.com/35696935/85925928-a787e780-b869-11ea-970a-228e05cf7292.png">
+
 ## Getting Started
 ### Prerequisites
 
